@@ -30,7 +30,7 @@ MiniRPG/
 │   └── dungeon.py       # Generador de encuentros, progresión de niveles y gestión de turnos.
 │
 ├── tests/
-│   ├── __init__.py
+│   ├── __init__.pygit status
 │   └── test_combat.py   # Pruebas unitarias para validar fórmulas de daño y límites de vida.
 │
 └── main.py              # Interfaz de consola interactiva que coordina la aventura.
